@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>VIATJES VEDRUNA</title>
+ <br/>
+<div align="center" style="border:;">
+<br/>
+<img src="https://images.cooltext.com/5291605.png" width="656" height="118" alt="Viatges Vedruna" style="text-align:center;" />
+<br/>
+<link type="text/css" rel="stylesheet" href="css/hoja-estilo.css/>
+</head>
+<body>
+<nav>
+<ul>
+<li><a href="trasllats.html"></a>TRASLLATS</li>
+<li><a href="vols.html"></a>VOLS</li>
+<li><a href="hotels.html"></a>HOTELS</li>
+<li><a href="restaurants.html"></a>RESTAURANTS</li>
+<li><a href="excursions.html"></a>EXCURSIONS</li>
+</ul>
+</nav>
+nav ul {
+list-style-type:none ;
+background-color:#FFD700
+border: 4px solid #000000
+border-radius: 10px;
+font-family:sans-serif;
+font-weight:bold;
+padding: 16px;
+}
+nav ul li {
+display:inline;
+border-right: 2px solid #000000;
+padding-right: 8px;
+padding-left: 8px;
+}
+nav ul li:last child {
+border-right:none;
+}
+nav ul li a {
+text-decoration:none;
+color:#000000;
+}
